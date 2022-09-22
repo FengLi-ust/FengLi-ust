@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FengLi-ust&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+-->
 
 - 🌱 I’m interested in object detection/segmentation and multi-modal learning.
 - 🏫 I am a second-year Ph.D. student at the [Computer Science and Engineering](https://cse.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/).
@@ -22,6 +24,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fliay@connect.ust.hk
 - 📖 homepage: https://fengli-ust.github.io/
 
-
+<!--
+<h2>Open source projects</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/IDEA-Research/detrex"><b>detrex</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/IDEA-Research/detrex?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
+  </tbody>
+</table>
+-->
 
 
