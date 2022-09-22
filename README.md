@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m interested in object detection/segmentation and multi-modal learning.
-- 🏫 I am a second-year Ph.D. student at the [Computer Science and Engineering](https://cse.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/).
+- 🏫 I am a second-year Ph.D. student at the [Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 - 🔭 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/).
 - 📫 How to reach me: fliay@connect.ust.hk
 - 📖 homepage: https://fengli-ust.github.io/
