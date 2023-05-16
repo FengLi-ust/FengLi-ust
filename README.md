@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fliay@connect.ust.hk
 - 📖 homepage: https://fengli-ust.github.io/
 
+![](https://komarev.com/ghpvc/?username=FengLi-ust)
+
 <!--
 <h2>Open source projects</h2>
 <table>
