@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FengLi-ust&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 -->
 
-- 🌱 I’m interested in object detection/segmentation and multi-modal learning.
+- 🌱 I’m interested in object detection/segmentation, image generation, and multi-modal learning.
 - 🏫 I am a third-year Ph.D. student (2021-now) at the [Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 - 📫 How to reach me: fliay@connect.ust.hk
 - 📖 homepage: https://fengli-ust.github.io/
