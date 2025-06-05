@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m interested in object detection/segmentation, image generation, and multi-modal learning.
-- 🏫 I am a third-year Ph.D. student (2021-now) at the [Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+- 🏫 I am a final-year Ph.D. student (2021-now) at the [Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 - 📫 How to reach me: fliay@connect.ust.hk
 - 📖 homepage: https://fengli-ust.github.io/
 
